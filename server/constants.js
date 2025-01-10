@@ -1,5 +1,6 @@
 const PORT_NUMBER = 8000;
-const CORS_ORIGIN = "https://chat-app-six-orpin.vercel.app";
+const CORS_ORIGIN =
+  "https://chat-app-i9kb-git-main-riteshnikams-projects.vercel.app/";
 const MONGO_CONNECTION_URI =
   "mongodb+srv://riteshnikam2804:hNgaVwxWHPyQOHvy@cluster0.2pafk.mongodb.net";
 const DATABASE_NAME = "E-COMMERCE";
