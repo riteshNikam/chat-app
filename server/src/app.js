@@ -25,7 +25,7 @@ app.use("/api/v1/messages", messageRouter);
 const server = createServer(app);
 const io = new Server(server, {
   cors: {
-    origin: "*",
+    origin: "https://chat-app-i9kb-git-main-riteshnikams-projects.vercel.app/",
   },
 });
 
